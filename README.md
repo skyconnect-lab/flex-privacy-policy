@@ -46,6 +46,6 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ## 7. Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [Contact Information].
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at dev@skyconnect.co.tz.
 
-This privacy policy was built with the help of the [Privacy Policy Template](https://www.privacypolicytemplate.net) and the [Privacy Policy Generator](https://www.privacypolicygenerator.info).
+
