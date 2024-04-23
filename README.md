@@ -2,7 +2,7 @@
 
 # Privacy Policy for Flex
 
-**Effective date:** [Date]
+**Effective date:** 23 - 04 -2024
 
 At Flex, accessible from [App's URL or relevant contact information], one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by Flex and how we use it.
 
